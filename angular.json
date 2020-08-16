@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "indian-flag": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "indian-flag"
+    }
+  },
+  "defaultProject": "indian-flag",
+  "cli": {
+    "analytics": "8f858eeb-a89e-448b-89cd-2c83148d6b4a"
+  }
 }
